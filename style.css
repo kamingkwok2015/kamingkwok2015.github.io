@@ -1,0 +1,52 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: left;
+    font-family: "menlo";
+    font-weight: normal;
+    font-size: 5vw;
+}
+
+.intro {
+    text-align: left;
+    font-family: "menlo";
+    display: grid;
+    grid-template-columns: 67% 33%;
+}
+
+.studies{
+    text-align:left;
+    font-family:times new roman;
+}
+
+.activities{
+    font-size:16px;
+}
+
+.activitiesTable{
+    padding:2px;
+}
+
+.studiestable{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding:3px;
+}
+
+.awards{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
+
+.CUHK{    
+    text-align:left;
+    font-family:times new roman;
+    display: flex;
+    float:left;
+    margin-right: 5px;
+}
